@@ -9,3 +9,6 @@ pandas				1.5.3
 matplotlib			3.7.1
 matplotlib-inline	0.1.6
 seaborn				0.12.2
+
+## Files
+There are three three csv files that contain the Seattle Airbnb Data i want to analyze. Also there ist a Jupyter Notebook file in which i show my analysis process in form of a CRISP-DM process.
