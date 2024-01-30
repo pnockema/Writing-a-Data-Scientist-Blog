@@ -16,3 +16,5 @@ There are three three csv files that contain the Seattle Airbnb Data i want to a
 ## Results
 We couldn't find any influences on price by host related features, review scores or availability. There are other obvious factors for price like sqauremeters and location. Although we didn't research the influence of those factors, we can assume that these are the main factors for pricing. What we did find is that the mentioned features influence number of reviews.
 What the data cannot tell us is how the examined features have an impact on booking fequency of a given home. One can imagine that more information and higher review scores influence Airbnb clients towards booking.
+
+## MEDIUM blog post on my findings: https://medium.com/@philipp_98147/this-is-why-airbnb-hosts-can-not-relax-96a023bae4ee
